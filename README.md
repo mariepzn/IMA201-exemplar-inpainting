@@ -1,6 +1,7 @@
 # Exemplar-Based Image Inpainting (Criminisi et al. 2004)
 
-This group project is a Python implementation of the **exemplar-based inpainting algorithm** introduced by Criminisi, Pérez, and Toyama (2004) as part of a final assignment for IMA201-Introduction to image Preprocessing course at Telecom Paris in october 2023
+This group project is a Python implementation of the **exemplar-based inpainting algorithm** introduced by Criminisi, Pérez, and Toyama (2004) as part of a final assignment for IMA201-Introduction to image Preprocessing course at Telecom Paris in october 2023.
+
 The method fills missing regions in images by iteratively copying the most similar patches from known areas, combining **texture synthesis** with **structure propagation** to achieve realistic results.
 
 ---
