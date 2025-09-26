@@ -19,6 +19,6 @@ The method fills missing regions in images by iteratively copying the most simil
 
 Original image | Mask | Inpainted result  
 :---:|:---:|:---:  
-![Original](assets/original.png) | ![Mask](assets/mask.png) | ![Result](assets/result.png)  
+![Original](assets/original.jpg) | ![Mask](assets/mask.jpg) | ![Result](assets/inpainted.png)  
 
 ---
