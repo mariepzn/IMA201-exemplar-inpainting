@@ -6,7 +6,7 @@ The method fills missing regions in images by iteratively copying the most simil
 
 ---
 
-## 📌 Features
+## Features
 
 - Implementation of the Criminisi et al. algorithm from scratch in Python  
 - Patch extraction and matching using Sum of Squared Differences (SSD)  
@@ -16,7 +16,7 @@ The method fills missing regions in images by iteratively copying the most simil
 
 ---
 
-## 🖼️ Example
+## Example
 
 Original image | Mask | Inpainted result  
 :---:|:---:|:---:  
